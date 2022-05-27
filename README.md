@@ -1,5 +1,5 @@
 # Zero Classic Mining pool creation services for private, group or commercial mining at your own home hosted machines, local computer/servers, cloud/VPS or commercial servers.
-We provide installation services for deploying ZeroClassic mining pool algorithm Equihash 19,7 setup services for private/solo or public mining.
+We provide installation services for deploying ZeroClassic mining pool algorithm Equihash 192,7 setup services for private/solo or public mining.
 
 Contact us to develop and deploy your own ZERC crypto mining pool with equihash algo, within two working days your pool should be up and running with automatic payout to miners and pool owner. 
 
